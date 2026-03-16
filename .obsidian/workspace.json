@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Table of Contents.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Table of Contents"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4734d18ea59eea1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "12d22efc81f6a592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa84e1bfa2f0ec2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "51f72417c3c952c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "diataxis/grimoire/tutorial",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccbb452454ec33b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "edc5d76a99a2da1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "diata"
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "5d0dec7969e8611c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6977aadc13bde0da",
+        "type": "tabs",
+        "dimension": 36.25792811839324,
+        "children": [
+          {
+            "id": "de2f70ba80bc625f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "698c62f8fb02fde9",
+        "type": "tabs",
+        "dimension": 63.74207188160676,
+        "children": [
+          {
+            "id": "cfd82fc780d28bbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Table of Contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Table of Contents"
+            }
+          },
+          {
+            "id": "bd995cb4b2400bf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cold Storage/Templates/DEPRECATED/DEPRECATED - Meeting Notes Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DEPRECATED - Meeting Notes Template"
+            }
+          },
+          {
+            "id": "fadf95ebe98615a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cold Storage/Templates/DEPRECATED/DEPRECATED - Meeting Notes Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DEPRECATED - Meeting Notes Template"
+            }
+          },
+          {
+            "id": "bc2e89e8056c7ade",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Your Client/Work/MoC - Work.md",
+    "Table of Contents.md",
+    "Maps of Content/MoC - Tasks.md",
+    "Your Client/Meeting Notes/MoC - Meetings.md",
+    "Your Client/Work/Years/2025/2025 Timeline.md",
+    "Diátaxis/MoC - Diátaxis.md",
+    "Diátaxis/Grimoire/MoC - Grimoire.md",
+    "Diátaxis/Grimoire/explanation/SAFER/Lean Bytes - SAFER.md",
+    "Diátaxis/Grimoire/explanation/SAFER",
+    "Diátaxis/Grimoire/reference/Things Theme Checklist Icons.md",
+    "Diátaxis/Grimoire/reference/Callout Reference.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Lean Bytes Presentation 5.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Fork it.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Lean Bytes Presentation 1.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/photos/questions.png",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/photos/devil-fork.png",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/photos",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/This is a note about dogs.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Questions.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Lean Bytes Presentation 4.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Lean Bytes - Obsidian Grimoire.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Presentation Rough Draft.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Presentation Timing.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Lean Bytes Presentation 3.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Lean Bytes Presentation 2.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire/Presentation Outline.md",
+    "Diátaxis/Grimoire/explanation/Obsidian Grimoire",
+    "Bases/all_files.base",
+    "Diátaxis/Reference App/Reference App Kanban.md",
+    "Diátaxis/Reference App/MoC - Reference App.md",
+    "Diátaxis/Grimoire/explanation/What is a Map of Contents?.md",
+    "Diátaxis/Grimoire/tutorial/Capture & Surface Tasks.md",
+    "Diátaxis/Grimoire/tutorial/photos/Pasted image 20260315225844.png",
+    "Diátaxis/Grimoire/tutorial/photos/Pasted image 20260315230759.png",
+    "Diátaxis/Grimoire/tutorial/photos/Pasted image 20260315230728.png",
+    "Diátaxis/Grimoire/tutorial/photos/Pasted image 20260315225943.png",
+    "Diátaxis/Grimoire/tutorial/Obsidian Grimoire/photos/questions.png",
+    "Diátaxis/Grimoire/tutorial/Obsidian Grimoire/photos/devil-fork.png",
+    "Diátaxis/Grimoire/tutorial/Obsidian Grimoire/photos",
+    "Diátaxis/Grimoire/tutorial/Obsidian Grimoire",
+    "Your Client/Meeting Notes/Product",
+    "Diátaxis/Grimoire/tutorial/photos/viewing-source-dataview.png",
+    "Diátaxis/Grimoire/tutorial/photos/view-source-btn-dataview.png",
+    "Diátaxis/Grimoire/tutorial/photos",
+    "Your Client/Work/Years/2026/03",
+    "Your Client/Work/Years/2026"
+  ]
+}

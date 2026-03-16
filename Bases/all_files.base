@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.folder
+      - file.tags
+    sort:
+      - property: file.folder
+        direction: ASC
+  - type: table
+    name: All Files
+    filters:
+      and:
+        - file.path.startsWith("Deere/Work/2025/Story List")
+    order:
+      - file.name
+      - pr_summary
+      - application
+      - completed
+      - repo
+    columnSize:
+      file.name: 361

@@ -1,0 +1,13 @@
+{
+  "accentColor": "#c8a937",
+  "cssTheme": "Things",
+  "translucency": false,
+  "theme": "obsidian",
+  "interfaceFontFamily": "Helvetica Neue",
+  "showRibbon": true,
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "obsidian-timeline"
+  ]
+}
